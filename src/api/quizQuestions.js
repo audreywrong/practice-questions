@@ -1,5 +1,22 @@
 var quizQuestions = [
   {
+    question: "What is the parent element of `title`?",
+    answers: [
+      {
+        type: "Incorrect",
+        content: "Body",
+      },
+      {
+        type: "Incorrect",
+        content: "Section",
+      },
+      {
+        type: "Correct",
+        content: "Head",
+      },
+    ],
+  },
+  {
     question: "What is grep in bash?",
     answers: [
       {
