@@ -3,15 +3,15 @@ var quizQuestions = [
     question: "What is the parent element of `title`?",
     answers: [
       {
-        type: "idk",
+        type: "Incorrect",
         content: "Body",
       },
       {
-        type: "idk",
+        type: "Incorrect",
         content: "Section",
       },
       {
-        type: "idk",
+        type: "Correct",
         content: "Head",
       },
     ],
